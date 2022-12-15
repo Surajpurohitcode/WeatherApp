@@ -10,11 +10,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/Surajpurohitcode/WeatherApp/master/Screenshot1.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://raw.githubusercontent.com/Surajpurohitcode/WeatherApp/master/Screenshot1.jpg" alt="project-screenshot" width="250" height="250/">
 
-<img src="https://raw.githubusercontent.com/Surajpurohitcode/WeatherApp/master/Screenshot2.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://raw.githubusercontent.com/Surajpurohitcode/WeatherApp/master/Screenshot2.jpg" alt="project-screenshot" width="250" height="250/">
 
-<img src="https://raw.githubusercontent.com/Surajpurohitcode/WeatherApp/master/Screenshot3.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://raw.githubusercontent.com/Surajpurohitcode/WeatherApp/master/Screenshot3.jpg" alt="project-screenshot" width="250" height="250/">
 
   
   
