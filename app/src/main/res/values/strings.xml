@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="myweather">MyWeather</string>
+    <string name="search_location">Search Location</string>
+    <string name="expore_global_map_of_wind_weather_and_ocean_conditions">Expore global map of wind, weather, and ocean conditions</string>
+    <string name="planing_your_trip_become_more_easier_with_ideate_weather_app_you_can_instantly_see_the_whole_word_weather_within_few_second">Planing your trip become more easier with ideate weather app. you can instantly see the whole word weather within few second</string>
+    <string name="location">location</string>
+</resources>
